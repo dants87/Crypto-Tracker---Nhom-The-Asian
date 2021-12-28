@@ -75,7 +75,7 @@ form.create_window(92,283,window=vndEntry)
 form.create_window(168,283,window=usdEntry)
 form.create_window(87,257,window= fiat)
 
-#Gắn cờ để dừng luồng chạy song song
+#Đặt cờ để dừng luồng chạy song song
 stop_thread = False
 # Xử lý để gửi thông báo
 def xuly():
